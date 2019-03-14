@@ -109,7 +109,6 @@ export default {
             title: 'Космические корабли',
             active: true,
             items: [
-              // { title: 'Новая рассылка', link: '/starship/info' },
               { title: 'Список кораблей', link: '/starship/list' }
             ]
           }
